@@ -11,3 +11,5 @@ python-dotenv
 pydantic
 aiofiles
 requests
+deepgram-sdk
+sounddevice
